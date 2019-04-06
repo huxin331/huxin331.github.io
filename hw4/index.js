@@ -12,8 +12,9 @@ const examples = {
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
-};
+      'The Director of Companies was our captain and our host.'    
+  'example4':
+      'And he looked over at the alarm clock, ticking on the chest of drawers.' };
 
 function status(statusText) {
   console.log(statusText);
