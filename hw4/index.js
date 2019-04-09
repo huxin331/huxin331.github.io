@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Mr. Utterson again walked some way in silence and obviously under a weight of consideration.',
   'example2':
       'Buda-Pesth seems a wonderful place.',
   'example3':
-      'The Director of Companies was our captain and our host.'    
+      'The Director of Companies was our captain and our host.',
   'example4':
-      'And he looked over at the alarm clock, ticking on the chest of drawers.' };
+      'It was an awful sight of money whenit was piled up..' };
 
 function status(statusText) {
   console.log(statusText);
