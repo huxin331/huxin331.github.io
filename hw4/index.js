@@ -10,9 +10,9 @@ const examples = {
   'example1':
       'Mr. Utterson again walked some way in silence and obviously under a weight of consideration.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'All day long we seemed to dawdle through a country which was full of beauty of every kind.',
   'example3':
-      'The Director of Companies was our captain and our host.',
+      'On the whole river there was nothing that looked half so nautical.',
   'example4':
       'It was an awful sight of money whenit was piled up..' };
 
